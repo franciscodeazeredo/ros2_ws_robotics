@@ -1,0 +1,19 @@
+{
+  "package_name": "ps4_controller",
+  "output_dir": "/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller/rosidl_typesupport_introspection_cpp/ps4_controller",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller/rosidl_adapter/ps4_controller:msg/PS4.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller/rosidl_adapter/ps4_controller/msg/PS4.idl"
+  ]
+}

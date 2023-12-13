@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libps4_controller__rosidl_generator_c.so -o libps4_controller__rosidl_generator_c.so CMakeFiles/ps4_controller__rosidl_generator_c.dir/rosidl_generator_c/ps4_controller/msg/detail/ps4__functions.c.o  -Wl,-rpath,/opt/ros/humble/lib: /opt/ros/humble/lib/librosidl_runtime_c.so /opt/ros/humble/lib/librcutils.so -ldl 

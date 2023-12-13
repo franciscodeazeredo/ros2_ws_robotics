@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing robotics_controller.egg-info/PKG-INFO
+writing dependency_links to robotics_controller.egg-info/dependency_links.txt
+writing entry points to robotics_controller.egg-info/entry_points.txt
+writing requirements to robotics_controller.egg-info/requires.txt
+writing top-level names to robotics_controller.egg-info/top_level.txt
+reading manifest file 'robotics_controller.egg-info/SOURCES.txt'
+writing manifest file 'robotics_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics-controller.egg-link (link to .)
+
+Installed /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller
+running install_data
+copying resource/robotics_controller -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/share/robotics_controller

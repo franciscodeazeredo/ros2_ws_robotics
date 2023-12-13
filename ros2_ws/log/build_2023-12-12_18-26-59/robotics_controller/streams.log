@@ -1,0 +1,59 @@
+[0.496s] Invoking command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/src/robotics_controller': PYTHONPATH=/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/prefix_override:/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robotics_controller build --build-base /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build install --record /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/install.log --single-version-externally-managed
+[0.627s] running egg_info
+[0.635s] writing ../../build/robotics_controller/robotics_controller.egg-info/PKG-INFO
+[0.635s] writing dependency_links to ../../build/robotics_controller/robotics_controller.egg-info/dependency_links.txt
+[0.636s] writing requirements to ../../build/robotics_controller/robotics_controller.egg-info/requires.txt
+[0.636s] writing top-level names to ../../build/robotics_controller/robotics_controller.egg-info/top_level.txt
+[0.652s] reading manifest file '../../build/robotics_controller/robotics_controller.egg-info/SOURCES.txt'
+[0.653s] writing manifest file '../../build/robotics_controller/robotics_controller.egg-info/SOURCES.txt'
+[0.653s] running build
+[0.653s] running build_py
+[0.653s] copying robotics_controller/serial_tools.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.653s] copying robotics_controller/camera.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/script.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/ps4_controller_subscriber.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/tools.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/robot.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/ps4_controller_publisher.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/__init__.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] copying robotics_controller/gamepad_example.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.654s] running install
+[0.654s] /home/franciscoazeredo/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.654s] !!
+[0.654s] 
+[0.654s]         ********************************************************************************
+[0.655s]         Please avoid running ``setup.py`` directly.
+[0.655s]         Instead, use pypa/build, pypa/installer or other
+[0.655s]         standards-based tools.
+[0.655s] 
+[0.655s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.655s]         ********************************************************************************
+[0.655s] 
+[0.655s] !!
+[0.655s]   self.initialize_options()
+[0.657s] running install_lib
+[0.665s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/serial_tools.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.665s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/camera.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/script.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/ps4_controller_subscriber.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/tools.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/robot.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/ps4_controller_publisher.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] copying /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller/gamepad_example.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[0.666s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/serial_tools.py to serial_tools.cpython-310.pyc
+[0.666s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/camera.py to camera.cpython-310.pyc
+[0.666s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/script.py to script.cpython-310.pyc
+[0.666s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/ps4_controller_subscriber.py to ps4_controller_subscriber.cpython-310.pyc
+[0.667s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/tools.py to tools.cpython-310.pyc
+[0.667s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/robot.py to robot.cpython-310.pyc
+[0.669s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/ps4_controller_publisher.py to ps4_controller_publisher.cpython-310.pyc
+[0.669s] byte-compiling /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/gamepad_example.py to gamepad_example.cpython-310.pyc
+[0.670s] running install_data
+[0.678s] copying resource/robotics_controller -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/share/ament_index/resource_index/packages
+[0.678s] copying package.xml -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/share/robotics_controller
+[0.679s] running install_egg_info
+[0.687s] removing '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.687s] Copying ../../build/robotics_controller/robotics_controller.egg-info to /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller-0.0.0-py3.10.egg-info
+[0.688s] running install_scripts
+[0.767s] writing list of installed files to '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/install.log'
+[0.781s] Invoked command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/src/robotics_controller' returned '0': PYTHONPATH=/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/prefix_override:/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robotics_controller build --build-base /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build install --record /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/install.log --single-version-externally-managed

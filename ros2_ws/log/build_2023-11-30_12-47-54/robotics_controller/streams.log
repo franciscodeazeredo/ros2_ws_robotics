@@ -1,0 +1,42 @@
+[0.841s] Invoking command in '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller': PYTHONPATH=/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/prefix_override:/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build
+[1.108s] running develop
+[1.109s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.109s]   warnings.warn(
+[1.110s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.110s]   warnings.warn(
+[1.260s] Removing /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics-controller.egg-link (link to .)
+[1.298s] Invoked command in '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller' returned '0': PYTHONPATH=/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/prefix_override:/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build
+[1.300s] Invoking command in '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/src/robotics_controller': PYTHONPATH=/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/prefix_override:/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robotics_controller build --build-base /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build install --record /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/install.log --single-version-externally-managed
+[1.554s] running egg_info
+[1.555s] writing ../../build/robotics_controller/robotics_controller.egg-info/PKG-INFO
+[1.555s] writing dependency_links to ../../build/robotics_controller/robotics_controller.egg-info/dependency_links.txt
+[1.556s] writing entry points to ../../build/robotics_controller/robotics_controller.egg-info/entry_points.txt
+[1.556s] writing requirements to ../../build/robotics_controller/robotics_controller.egg-info/requires.txt
+[1.556s] writing top-level names to ../../build/robotics_controller/robotics_controller.egg-info/top_level.txt
+[1.558s] reading manifest file '../../build/robotics_controller/robotics_controller.egg-info/SOURCES.txt'
+[1.559s] writing manifest file '../../build/robotics_controller/robotics_controller.egg-info/SOURCES.txt'
+[1.559s] running build
+[1.560s] running build_py
+[1.560s] creating /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build
+[1.560s] creating /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib
+[1.561s] creating /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[1.561s] copying robotics_controller/movement_subscriber.py -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[1.561s] copying robotics_controller/__init__.py -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[1.561s] copying robotics_controller/joystick_publisher.py -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[1.561s] running install
+[1.562s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.562s]   warnings.warn(
+[1.562s] running install_lib
+[1.562s] creating /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[1.562s] copying /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller/movement_subscriber.py -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[1.563s] copying /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller/__init__.py -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[1.563s] copying /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build/lib/robotics_controller/joystick_publisher.py -> /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller
+[1.563s] byte-compiling /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/movement_subscriber.py to movement_subscriber.cpython-310.pyc
+[1.564s] byte-compiling /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/__init__.py to __init__.cpython-310.pyc
+[1.564s] byte-compiling /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller/joystick_publisher.py to joystick_publisher.cpython-310.pyc
+[1.565s] running install_data
+[1.566s] running install_egg_info
+[1.568s] Copying ../../build/robotics_controller/robotics_controller.egg-info to /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller-0.0.0-py3.10.egg-info
+[1.569s] running install_scripts
+[1.592s] writing list of installed files to '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/install.log'
+[1.627s] Invoked command in '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/src/robotics_controller' returned '0': PYTHONPATH=/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/prefix_override:/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robotics_controller build --build-base /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build install --record /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/install.log --single-version-externally-managed

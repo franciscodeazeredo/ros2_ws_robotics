@@ -1,0 +1,38 @@
+[0.608s] Invoking command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/src/robotics_controller': PYTHONPATH=/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/prefix_override:/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robotics_controller build --build-base /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build install --record /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/install.log --single-version-externally-managed
+[0.764s] running egg_info
+[0.773s] writing ../../build/robotics_controller/robotics_controller.egg-info/PKG-INFO
+[0.774s] writing dependency_links to ../../build/robotics_controller/robotics_controller.egg-info/dependency_links.txt
+[0.774s] deleting ../../build/robotics_controller/robotics_controller.egg-info/entry_points.txt
+[0.774s] writing requirements to ../../build/robotics_controller/robotics_controller.egg-info/requires.txt
+[0.774s] writing top-level names to ../../build/robotics_controller/robotics_controller.egg-info/top_level.txt
+[0.794s] reading manifest file '../../build/robotics_controller/robotics_controller.egg-info/SOURCES.txt'
+[0.795s] writing manifest file '../../build/robotics_controller/robotics_controller.egg-info/SOURCES.txt'
+[0.795s] running build
+[0.795s] running build_py
+[0.795s] copying robotics_controller/ps4_controller_subscriber.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.796s] copying robotics_controller/ps4_controller_publisher.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.796s] copying robotics_controller/__init__.py -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build/lib/robotics_controller
+[0.796s] running install
+[0.796s] /home/franciscoazeredo/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.796s] !!
+[0.796s] 
+[0.797s]         ********************************************************************************
+[0.797s]         Please avoid running ``setup.py`` directly.
+[0.797s]         Instead, use pypa/build, pypa/installer or other
+[0.797s]         standards-based tools.
+[0.797s] 
+[0.797s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.797s]         ********************************************************************************
+[0.797s] 
+[0.797s] !!
+[0.797s]   self.initialize_options()
+[0.802s] running install_lib
+[0.815s] running install_data
+[0.826s] copying resource/robotics_controller -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/share/ament_index/resource_index/packages
+[0.826s] copying package.xml -> /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/share/robotics_controller
+[0.826s] running install_egg_info
+[0.838s] removing '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.839s] Copying ../../build/robotics_controller/robotics_controller.egg-info to /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics_controller-0.0.0-py3.10.egg-info
+[0.839s] running install_scripts
+[0.940s] writing list of installed files to '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/install.log'
+[0.957s] Invoked command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/src/robotics_controller' returned '0': PYTHONPATH=/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/prefix_override:/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/robotics_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robotics_controller build --build-base /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/build install --record /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/robotics_controller/install.log --single-version-externally-managed

@@ -1,0 +1,3 @@
+[console_scripts]
+ps4_controller_publisher = robotics_controller.ps4_controller_publisher:main
+ps4_controller_subscriber = robotics_controller.robotics_controller.ps4_controller_subscriber:main

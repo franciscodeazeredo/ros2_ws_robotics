@@ -1,0 +1,20 @@
+[0.886s] Invoking command in '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller': PYTHONPATH=/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/prefix_override:/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages: /usr/bin/python3 setup.py develop --editable --build-directory /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build --no-deps install_data
+[1.189s] running develop
+[1.189s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.189s]   warnings.warn(
+[1.191s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.191s]   warnings.warn(
+[1.334s] running egg_info
+[1.335s] writing robotics_controller.egg-info/PKG-INFO
+[1.335s] writing dependency_links to robotics_controller.egg-info/dependency_links.txt
+[1.335s] writing entry points to robotics_controller.egg-info/entry_points.txt
+[1.336s] writing requirements to robotics_controller.egg-info/requires.txt
+[1.336s] writing top-level names to robotics_controller.egg-info/top_level.txt
+[1.338s] reading manifest file 'robotics_controller.egg-info/SOURCES.txt'
+[1.339s] writing manifest file 'robotics_controller.egg-info/SOURCES.txt'
+[1.341s] running build_ext
+[1.341s] Creating /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages/robotics-controller.egg-link (link to .)
+[1.342s] 
+[1.342s] Installed /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller
+[1.343s] running install_data
+[1.386s] Invoked command in '/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller' returned '0': PYTHONPATH=/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/prefix_override:/home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/install/robotics_controller/lib/python3.10/site-packages: /usr/bin/python3 setup.py develop --editable --build-directory /home/afonsomeneses/Desktop/Robotics/Robotics1-main/ros2_ws/build/robotics_controller/build --no-deps install_data

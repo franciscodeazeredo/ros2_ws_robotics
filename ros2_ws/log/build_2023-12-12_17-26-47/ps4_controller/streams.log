@@ -1,0 +1,142 @@
+[0.047s] Invoking command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller -- -j20 -l20
+[0.083s] [  3%] Built target ps4_controller__cpp
+[0.084s] [ 12%] Built target ps4_controller__rosidl_generator_c
+[0.093s] [ 12%] Built target ament_cmake_python_copy_ps4_controller
+[0.107s] [ 22%] Built target ps4_controller__rosidl_typesupport_cpp
+[0.108s] [ 32%] Built target ps4_controller__rosidl_typesupport_fastrtps_cpp
+[0.114s] [ 41%] Built target ps4_controller__rosidl_typesupport_introspection_cpp
+[0.118s] [ 51%] Built target ps4_controller__rosidl_typesupport_introspection_c
+[0.119s] [ 61%] Built target ps4_controller__rosidl_typesupport_c
+[0.119s] [ 70%] Built target ps4_controller__rosidl_typesupport_fastrtps_c
+[0.137s] [ 70%] Built target ps4_controller
+[0.155s] [ 74%] Built target ps4_controller__py
+[0.172s] [ 80%] Built target ps4_controller__rosidl_generator_py
+[0.194s] [ 87%] Built target ps4_controller__rosidl_typesupport_fastrtps_c__pyext
+[0.194s] [ 93%] Built target ps4_controller__rosidl_typesupport_introspection_c__pyext
+[0.195s] [100%] Built target ps4_controller__rosidl_typesupport_c__pyext
+[0.263s] running egg_info
+[0.273s] writing ps4_controller.egg-info/PKG-INFO
+[0.273s] writing dependency_links to ps4_controller.egg-info/dependency_links.txt
+[0.273s] writing top-level names to ps4_controller.egg-info/top_level.txt
+[0.300s] reading manifest file 'ps4_controller.egg-info/SOURCES.txt'
+[0.300s] writing manifest file 'ps4_controller.egg-info/SOURCES.txt'
+[0.324s] [100%] Built target ament_cmake_python_build_ps4_controller_egg
+[0.335s] Invoked command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller -- -j20 -l20
+[0.408s] Invoking command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller
+[0.417s] -- Install configuration: ""
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ament_index/resource_index/rosidl_interfaces/ps4_controller
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/ps4_controller.h
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__functions.c
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__functions.h
+[0.417s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__type_support.h
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__struct.h
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/rosidl_generator_c__visibility_control.h
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/library_path.sh
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/library_path.dsv
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_generator_c.so
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller
+[0.418s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__rosidl_typesupport_fastrtps_c.h
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_typesupport_fastrtps_c.so
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__rosidl_typesupport_introspection_c.h
+[0.419s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__type_support.c
+[0.420s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.420s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_typesupport_introspection_c.so
+[0.420s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_typesupport_c.so
+[0.420s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller
+[0.420s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg
+[0.420s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__struct.hpp
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__traits.hpp
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__builder.hpp
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/ps4_controller.hpp
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.421s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__rosidl_typesupport_fastrtps_cpp.hpp
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/dds_fastrtps
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_typesupport_fastrtps_cpp.so
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__rosidl_typesupport_introspection_cpp.hpp
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/include/ps4_controller/ps4_controller/msg/detail/ps4_controller__type_support.cpp
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_typesupport_introspection_cpp.so
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_typesupport_cpp.so
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/pythonpath.sh
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/pythonpath.dsv
+[0.422s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller-0.0.0-py3.10.egg-info
+[0.422s] -- Installing: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[0.422s] -- Installing: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller-0.0.0-py3.10.egg-info/top_level.txt
+[0.423s] -- Installing: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.423s] -- Installing: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/libps4_controller__rosidl_generator_py.so
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/ps4_controller_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/_ps4_controller_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/ps4_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/msg
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/msg/_ps4_controller_s.c
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/msg/__init__.py
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/msg/_ps4_controller.py
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/_ps4_controller_s.ep.rosidl_typesupport_c.c
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/__init__.py
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/_ps4_controller_s.ep.rosidl_typesupport_introspection_c.c
+[0.423s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/ps4_controller_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.457s] Listing '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller'...
+[0.457s] Listing '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/msg'...
+[0.461s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/ps4_controller_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.461s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/ps4_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.461s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/local/lib/python3.10/dist-packages/ps4_controller/ps4_controller_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.461s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/lib/libps4_controller__rosidl_generator_py.so
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/msg/Ps4Controller.idl
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/msg/Ps4Controller.msg
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ament_index/resource_index/package_run_dependencies/ps4_controller
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ament_index/resource_index/parent_prefix_path/ps4_controller
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/ament_prefix_path.sh
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/ament_prefix_path.dsv
+[0.462s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/path.sh
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/environment/path.dsv
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/local_setup.bash
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/local_setup.sh
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/local_setup.zsh
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/local_setup.dsv
+[0.463s] -- Installing: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/package.dsv
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ament_index/resource_index/packages/ps4_controller
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_generator_cExport.cmake
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_generator_cExport-noconfig.cmake
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_typesupport_fastrtps_cExport.cmake
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.463s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_introspection_cExport.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_cExport.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_cExport-noconfig.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_generator_cppExport.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_introspection_cppExport.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_cppExport.cmake
+[0.464s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controller__rosidl_typesupport_cppExport-noconfig.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_generator_pyExport.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/export_ps4_controller__rosidl_generator_pyExport-noconfig.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/rosidl_cmake-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ament_cmake_export_libraries-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ament_cmake_export_targets-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controllerConfig.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/cmake/ps4_controllerConfig-version.cmake
+[0.465s] -- Up-to-date: /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/install/ps4_controller/share/ps4_controller/package.xml
+[0.468s] Invoked command in '/home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/franciscoazeredo/OneDrive/Documents/tecnico/4_ano/Robotica/project/ros2_ws/build/ps4_controller
